@@ -3,6 +3,6 @@ title: "Calculus I&II"
 collection: teaching
 type: "Undergraduate course"
 venue: "Beijing Jiaotong University"
-date: 2023-spring
+date: 2023-09-01
 location: "Beijing, China"
 ---

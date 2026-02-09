@@ -1,1 +1,8 @@
-
+---
+title: "Stability Analysis of Ordinary Differential Equations"
+collection: teaching
+type: "Graduate Courses"
+venue: "Beijing Jiaotong University"
+date: "2024"
+location: "Beijing, China"
+---

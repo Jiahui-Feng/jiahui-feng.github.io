@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Dynamical Systems, Jilin University, 2017.09-2022.06
+* Ph.D in Mathematics, Jilin University, 2017.09-2022.06
 * B.S. in Mathematics, Henan Normal University, 2013.09-2017.06
 
 Work experience

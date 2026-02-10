@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
 
 My research lies primarily in the field of Dynamical Systems, with a specific focus on Hyperbolic Theory and its generalizations. My work aims to bridge the gap between uniform and non-uniform hyperbolicity by investigating Mean Hyperbolic Systems.
 
@@ -38,6 +36,6 @@ Topological Entropy of Weak Hyperbolic Systems: I aim to investigate how weak hy
 
 Statistical Properties of Weak Horseshoes and Billiards: I plan to study the decay of correlations, limit theorems, and thermodynamic formalism for weak horseshoe examples and billiard systems. This includes analyzing how boundary geometry affects the statistical laws of motion in billiard models.
 
-This is a link for my website in Chinese [Academic Pages](https://faculty.bjtu.edu.cn/9890/).
+This is the link to my Chinese version personal homepage [Academic Pages](https://faculty.bjtu.edu.cn/9890/).
 
 You can find my CV here: [Jiahui Feng's Curriculum Vitae](../assets/CV_Jiahui FENG(Visiting).pdf).

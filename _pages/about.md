@@ -14,6 +14,6 @@ My research lies primarily in the field of Dynamical Systems, with a specific fo
 
 I currently investigate the spectral theory of dynamical systems, focusing on the Mean Dichotomy Spectrum and its applications to Analytic Normalization and Reducibility. My recent work has led to new insights into the Hartman-Grobman theorem and the construction of smooth normal forms for weak hyperbolic systems. Looking forward, I am expanding my research to explore the topological entropy of weak hyperbolic systems and the statistical properties of weak horseshoes and billiard systems.
 
-You can also find my website in Chinese (https://faculty.bjtu.edu.cn/9890/).
+You can also find my website in Chinese [Academic Pages](https://faculty.bjtu.edu.cn/9890/).
 
 You can find my CV here: [Jiahui Feng's Curriculum Vitae](../assets/CV_Jiahui FENG(Visiting).pdf).

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+# title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-My research lies primarily in the field of Dynamical Systems, with a specific focus on Hyperbolic Theory and its generalizations. My work aims to bridge the gap between uniform and non-uniform hyperbolicity by investigating Mean Hyperbolic Systems.
+My research lies primarily in the field of Ordinary Differential Equations and Dynamical Systems, with a specific focus on weak Hyperbolic Theory and its generalizations. My work aims to bridge the gap between uniform and non-uniform hyperbolicity by investigating Mean Hyperbolic Systems.
 
 I currently investigate the spectral theory of dynamical systems, focusing on the Mean Dichotomy Spectrum and its applications to Analytic Normalization and Reducibility. My recent work has led to new insights into the Hartman-Grobman theorem and the construction of smooth normal forms for weak hyperbolic systems. Looking forward, I am expanding my research to explore the topological entropy of weak hyperbolic systems and the statistical properties of weak horseshoes and billiard systems.
 

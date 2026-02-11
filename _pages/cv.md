@@ -19,7 +19,7 @@ Work experience
 * 2022.07-Present: Lecturer
   * Beijing Jiaotong University
 
-* 2022.07-2024.07: Postdoc
+* 2022.07-2024.07: Postdoctoral
   * Beijing Jiaotong  University
     
 Fundings

@@ -1,7 +1,7 @@
 ---
 title: "Fundamentals of Modern Analysis"
 collection: teaching
-type: "Graduate Courses"
+type: "Graduate Course"
 venue: "Beijing Jiaotong University"
 date: 2025-09-01
 location: "Beijing, China"

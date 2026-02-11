@@ -21,8 +21,13 @@ Work experience
 
 * 2022.07-2024.07: Postdoc
   * Beijing Jiaotong  University
+    
+Fundings
+======
+* National Natural Science Foundation of China (for youth)
+* China Postdoctoral Science Foundation
+* Talent Fund of Beijing Jiaotong University
   
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
